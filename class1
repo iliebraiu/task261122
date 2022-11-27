@@ -1,1 +1,52 @@
+using System;
 
+public class Class1
+	abstract Class2
+{
+
+	public Class1()
+		interface Iepure 
+	{
+	}
+	protected int var1;
+//2.Creati o clasa(conform variantei) cu cite o proprietate: publica, protejata si abstracta.
+	public nume()
+	{
+	}
+	private virsta()
+	{
+	}
+	protected tip()
+	{
+	}
+//3.Creati geterii si seterii necesari pentru a face posibil accesul la toate particularitatile clasei.
+	public int getvar1 get var1;
+	public void setvar1 set var1;
+
+	//4.De scris o metoda publica care va afisa toate proprietetile clasei in format JSON.
+	//Atributul Serialize() ajuta la setarea parametrilor setati.
+	public Class1
+		{
+		public nume{ get; set;}
+        public int virsta { get; set; }
+        public string tip { get; set; }
+string jsonString = jsonSerializer.Serialize(Iepure);
+}
+ //5.Adaugati in clasa 3 constructori(vor fi diferentiati dupa numarul de parametri sau dupa tipul lor de date).
+ public static void Main ()
+{
+	var Iepure = new Iepure
+	{
+		nume = Trofimas,
+		virsta = 1,
+		tip = men,
+	};
+	//6.Creati o clasa abstracta, care ar putea fi parintele clasei pe care ati creat-o anterior.
+	{
+		abstract class Iepure (Class1)
+}
+//7.Creati o clasa inrudita cu clasa din varianta pe care o aveti,iar codul care le este comun, va fi transferat in clasa parinte abstracta.
+{
+	abstract class Iepure (Class2)
+}
+}
